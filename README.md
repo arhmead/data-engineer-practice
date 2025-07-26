@@ -1,2 +1,2 @@
 # data-engineer-practice
-data-engineer-practice
+data-engineering-practice
